@@ -1,0 +1,30 @@
+[
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/d40d/a9a3/a7234235e66d6695d9d7098fc3289872?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pJFW66gGCCb84nPFkK5pd1ehnabOZF74iCV8~eB9fAa9OQPh3YN8xdLnqi330yan7NxGrPkfuPfXLb2qdb7Z3KSJfyAYJ~l1jczwCXc9JW3nqXGBLe-zQbFOQ5HnijZfmNGVW1AEl068IsV-WI0No5Ui93TpXgB1pio35gXgRjY3kKsYYO8jROH~mVFjoGDMSIDsayNglki3BHn3nQexCoNqqNPQxdALhLu4KjPkkv1QSC2X0qQHXXydb0GQBp7sMjktTCAYBvalIiOVhcbpIP3ojuDmyNIdTJXyV9PpjWDLd3Zy-nEMgZ4f7nuWQCBbVKyL6hCEHwAuNvhCPEtvDg__",
+        "productName": "T-SHIRT WITH TAPE DETAILS",
+        "price": 120,
+        "rating": 4.5
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/769b/9d60/ff941dde9bc0e54431b8d8fe3182f5e9?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mbY~wHn6chKgCWX7sADgZkn~Hli4v2Z3PY9rh~wctkZTsuGWxF~MH2rreY6j0uRudMrUbvGmD5cQ6aJ5ZJgHwGowl0YPqfZxe4-agwXKbCJsRroL-67D2-gXNsDa4FPKUxdS3tm4nXcPlH1c6qdxkByt81uVjsebcsRkTq79fQMhKpoaQWrmeb~pZzXqArl8VDzFtqAGyeP0oW8UzTYtxlsniPxygWHix8AEiadKqmYYSUaoFsA~F0ctL2NbxUEHX0HNg-zvYPUhU8nkeFjPJiQOykpVGhyBbGrt9k-xFKx6lylaHG0985YsPqO4d6gLcNT2vNSIOk6Ji0byX5t-kg__",
+        "productName": "SKINNY FIT JEANS",
+        "price": 240,
+        "rating": 3.5,
+        "oldPrice": 260,
+        "promo": 20
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/bbf4/11c2/5fc84f87eeac1062fbe47f49c192d4f2?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EgnqZpL2iR4nHJaLxpyNHsGto8tAvorl-ILFAJZ0pBrnjsaXAulKuqxkv8qhiA5P2p40Mtqh-JR7o2w-6xO6-dvs62j4FFGjbsrm1r2gkcN90HOuHCC7c7y1EeBtcsgX0qqK6WvnQ7lEmiH673hJbJSKnu-r83k-SAGcIJTHywiutUgtpLiNUmDqbtZ5SkQuCwLWxFv5XC4tc0UzNa6EORYjTBBg3dcaULVztDE1gtqe3J0~ZPuLjKaRYfhEakUSfVMyEojKNicxcOmJ6qC55Xzy3n9GMKyBl0J9Lz-HQhosS~GOv1gha86Xwzx8Gl1MCQ4IXLJe6OJpewaIhllHNg__",
+        "productName": "CHECKERED SHIRT",
+        "price": 180,
+        "rating": 4.5
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/3457/42c2/7cc557f42cf1d489f7cc811856b90e9f?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qsi77A4aBtqyFo37BIfO2J353xrdN6GNZphDTN71LIvXpNh4qVtLJzgxU~pi9squgftZfsk3Q2dhtiYXjyopIhhiEKqSr0Hg-BmLfyPl7KfT3~Zk~aImiAWdlx64IiGdaLwYss80jMcS8dDtIp1rBxiU3p4OHgOue7ksAyxW-Dr9WnoWguFDuh0aPFpcZBaclkYOkVhp7Nks6Vdjss0YIk-zpRlGQvpKd1uUtO8Gy8C7k88NKwgeAplaXXAwo3BGkypzsb~cq065MGlHTOzcvgFn-RjvryWvmgSMon7DIrXlfGvhwK5ESsAVzvyrJxI74-1aLeg26yE8LX1PbfRN2w__",
+        "productName": "SLEEVE STRIPED T-SHIRT",
+        "price": 130,
+        "rating": 4.5,
+        "oldPrice": 160,
+        "promo": 30
+    }
+]
